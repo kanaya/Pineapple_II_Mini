@@ -14,3 +14,8 @@
 * C104
 * D x2
 * 1x8 pinhead
+* Case (SW-75)
+* DC Jack
+* 5p DIN receptacle
+* 2p receptacle (whatever)
+* LED
